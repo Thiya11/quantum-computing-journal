@@ -34,6 +34,11 @@ may also be useful for anyone interested in following along or exploring these t
 - **Notes:** Obsidian
 - **Approach:** Learn in public
 
+## Resources Used So far
+- **Essence of Linear Algebra** 3blue1brown
+- **Introduction to Quantum Computing** Quantum Country
+
+
 ## Related Repos
 
 🚧 _Coming soon — specific quantum projects will be linked here as they take shape._
